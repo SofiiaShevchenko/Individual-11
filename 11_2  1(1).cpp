@@ -1,5 +1,4 @@
 ﻿// 11_2  1(1)
-//
 
 #include <iostream>
 #include <algorithm>
